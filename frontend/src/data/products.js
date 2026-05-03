@@ -11,11 +11,11 @@ export const products = [
     rating: 4.5,
     reviews: 234,
     isNew: true,
-    image: "/src/assets/products/black_shoe.png",
+    image: "/products/black_shoe.png",
     colorImages: {
-      "#000000": "/src/assets/products/black_shoe.png",
-      "#FFFFFF": "/src/assets/products/white_shoe.png",
-      "#E63946": "/src/assets/products/red_shoe.png"
+      "#000000": "/products/black_shoe.png",
+      "#FFFFFF": "/products/white_shoe.png",
+      "#E63946": "/products/red_shoe.png"
     },
     description: "The RS-X³ Puzzle brings bold colors and innovative design to your everyday style."
   },
@@ -33,9 +33,9 @@ export const products = [
     isNew: false,
     image: "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=400&h=400&fit=crop",
     colorImages: {
-      "#000000": "/src/assets/products/puma_suede_black.png",
+      "#000000": "/products/puma_suede_black.png",
       "#FFFFFF": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?w=400&h=400&fit=crop",
-      "#1E3A8A": "/src/assets/products/puma_suede_blue.png"
+      "#1E3A8A": "/products/puma_suede_blue.png"
     },
     description: "A timeless classic with modern comfort and style."
   },
@@ -69,8 +69,8 @@ export const products = [
     image: "https://images.unsplash.com/photo-1605348532760-6753d2c43329?w=400&h=400&fit=crop",
     colorImages: {
       "#000000": "https://images.unsplash.com/photo-1605348532760-6753d2c43329?w=400&h=400&fit=crop",
-      "#808080": "/src/assets/products/nike_xray_gray.png",
-      "#FFFFFF": "/src/assets/products/nike_xray_white.png"
+      "#808080": "/products/nike_xray_gray.png",
+      "#FFFFFF": "/products/nike_xray_white.png"
     },
     description: "Bold chunky design with maximum cushioning."
   },
@@ -86,11 +86,11 @@ export const products = [
     rating: 4.6,
     reviews: 98,
     isNew: true,
-    image: "/src/assets/products/puma_defender_sky.png",
+    image: "/products/puma_defender_sky.png",
     colorImages: {
-      "#87CEEB": "/src/assets/products/puma_defender_sky.png",
-      "#000000": "/src/assets/products/puma_defender_black.png",
-      "#FFFF00": "/src/assets/products/puma_defender_yellow.png"
+      "#87CEEB": "/products/puma_defender_sky.png",
+      "#000000": "/products/puma_defender_black.png",
+      "#FFFF00": "/products/puma_defender_yellow.png"
     },
     description: "Versatile backpack for all your needs."
   },
@@ -106,11 +106,11 @@ export const products = [
     rating: 4.2,
     reviews: 76,
     isNew: false,
-    image: "/src/assets/products/ladies_office_bag_orange.jpg",
+    image: "/products/ladies_office_bag_orange.jpg",
     colorImages: {
-      "#FFA500": "/src/assets/products/ladies_office_bag_orange.jpg",
-      "#E63946": "/src/assets/products/ladies_office_bag_red.jpg",
-      "#FFD700": "/src/assets/products/ladies_office_bag_gold.jpg"
+      "#FFA500": "/products/ladies_office_bag_orange.jpg",
+      "#E63946": "/products/ladies_office_bag_red.jpg",
+      "#FFD700": "/products/ladies_office_bag_gold.jpg"
     },
     description: "Elegant tote bag for everyday office use."
   },
@@ -129,8 +129,8 @@ export const products = [
     image: "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=400&h=400&fit=crop",
     colorImages: {
       "#FFFFFF": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?w=400&h=400&fit=crop",
-      "#000000": "/src/assets/products/nike_ultraride_black.png",
-      "#E63946": "/src/assets/products/nike_ultraride_red.png"
+      "#000000": "/products/nike_ultraride_black.png",
+      "#E63946": "/products/nike_ultraride_red.png"
     },
     description: "Premium running shoes with advanced technology."
   },
@@ -148,8 +148,8 @@ export const products = [
     isNew: false,
     image: "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=400&h=400&fit=crop",
     colorImages: {
-      "#FF69B4": "/src/assets/products/nike_enzo_pink.jpg",
-      "#E63946": "/src/assets/products/nike_enzo_red.jpg"
+      "#FF69B4": "/products/nike_enzo_pink.jpg",
+      "#E63946": "/products/nike_enzo_red.jpg"
     },
     description: "Comfort meets style in this everyday favorite."
   },
@@ -167,9 +167,9 @@ export const products = [
     isNew: false,
     image: "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=400&h=400&fit=crop",
     colorImages: {
-      "#000000": "/src/assets/products/puma_golf_cap_black.png",
+      "#000000": "/products/puma_golf_cap_black.png",
       "#FFFFFF": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=400&h=400&fit=crop",
-      "#1E3A8A": "/src/assets/products/puma_golf_cap_blue.jpg"
+      "#1E3A8A": "/products/puma_golf_cap_blue.jpg"
     },
     description: "Stylish golf cap for the sporty look."
   },
@@ -200,9 +200,9 @@ export const products = [
     rating: 4.5,
     reviews: 38,
     isNew: true,
-    image: "/src/assets/products/woman_belt_black.png",
+    image: "/products/woman_belt_black.png",
     colorImages: {
-      "#000000": "/src/assets/products/woman_belt_black.png"
+      "#000000": "/products/woman_belt_black.png"
     },
     description: "Stylish women's leather belt with elegant gold GG buckle. Perfect for office and casual wear."
   },
@@ -218,11 +218,11 @@ export const products = [
     rating: 4.9,
     reviews: 178,
     isNew: true,
-    image: "/src/assets/products/ferrari_backpack_black.png",
+    image: "/products/ferrari_backpack_black.png",
     colorImages: {
-      "#000000": "/src/assets/products/ferrari_backpack_black.png",
-      "#E63946": "/src/assets/products/ferrari_backpack_red.png",
-      "#1E3A8A": "/src/assets/products/ferrari_backpack_blue.png"
+      "#000000": "/products/ferrari_backpack_black.png",
+      "#E63946": "/products/ferrari_backpack_red.png",
+      "#1E3A8A": "/products/ferrari_backpack_blue.png"
     },
     description: "Premium collaboration backpack with Ferrari branding."
   },
@@ -238,12 +238,12 @@ export const products = [
     rating: 4.6,
     reviews: 234,
     isNew: false,
-    image: "/src/assets/products/puma_carina_white_v2.png",
+    image: "/products/puma_carina_white_v2.png",
     colorImages: {
-      "#FFFFFF": "/src/assets/products/puma_carina_white_v2.png",
-      "#FF69B4": "/src/assets/products/puma_carina_pink.png",
-      "#000000": "/src/assets/products/puma_carina_black.png",
-      "#800080": "/src/assets/products/puma_carina_purple.png"
+      "#FFFFFF": "/products/puma_carina_white_v2.png",
+      "#FF69B4": "/products/puma_carina_pink.png",
+      "#000000": "/products/puma_carina_black.png",
+      "#800080": "/products/puma_carina_purple.png"
     },
     description: "Retro-inspired design with contemporary comfort."
   },
@@ -259,11 +259,11 @@ export const products = [
     rating: 4.8,
     reviews: 124,
     isNew: true,
-    image: "/src/assets/products/ethnic_jutis_black.jpg",
+    image: "/products/ethnic_jutis_black.jpg",
     colorImages: {
-      "#000000": "/src/assets/products/ethnic_jutis_black.jpg",
-      "#D2B48C": "/src/assets/products/ethnic_jutis_beige.jpg",
-      "#800000": "/src/assets/products/ethnic_jutis_maroon.jpg"
+      "#000000": "/products/ethnic_jutis_black.jpg",
+      "#D2B48C": "/products/ethnic_jutis_beige.jpg",
+      "#800000": "/products/ethnic_jutis_maroon.jpg"
     },
     description: "Premium velvet ethnic jutis with intricate gold floral embroidery. Perfect for weddings and special occasions."
   },
@@ -279,11 +279,11 @@ export const products = [
     rating: 4.7,
     reviews: 86,
     isNew: true,
-    image: "/src/assets/products/vendo_brown.png",
+    image: "/products/vendo_brown.png",
     colorImages: {
-      "#8B4513": "/src/assets/products/vendo_brown.png",
-      "#FF69B4": "/src/assets/products/vendo_pink.png",
-      "#FFFFFF": "/src/assets/products/vendo_white.png"
+      "#8B4513": "/products/vendo_brown.png",
+      "#FF69B4": "/products/vendo_pink.png",
+      "#FFFFFF": "/products/vendo_white.png"
     },
     description: "Stylish high heel sneakers for women, combining height and comfort with a modern streetwear aesthetic."
   },
@@ -299,11 +299,11 @@ export const products = [
     rating: 4.9,
     reviews: 45,
     isNew: true,
-    image: "/src/assets/products/woman_ethnic_green.png",
+    image: "/products/woman_ethnic_green.png",
     colorImages: {
-      "#228B22": "/src/assets/products/woman_ethnic_green.png",
-      "#FFFF00": "/src/assets/products/woman_ethnic_yellow.png",
-      "#FFB6C1": "/src/assets/products/woman_ethnic_pink.png"
+      "#228B22": "/products/woman_ethnic_green.png",
+      "#FFFF00": "/products/woman_ethnic_yellow.png",
+      "#FFB6C1": "/products/woman_ethnic_pink.png"
     },
     description: "Elegant handcrafted women's ethnic jutis with detailed floral embroidery. Perfect for traditional wear and festivals."
   },
@@ -319,7 +319,7 @@ export const products = [
     rating: 4.6,
     reviews: 29,
     isNew: true,
-    image: "/src/assets/products/woman_ethnic_jute.png",
+    image: "/products/woman_ethnic_jute.png",
     description: "Traditional women's ethnic jutis with colorful feather-style embroidery on a soft pink base."
   },
   {
@@ -334,11 +334,11 @@ export const products = [
     rating: 4.5,
     reviews: 62,
     isNew: true,
-    image: "/src/assets/products/froh_beige.png",
+    image: "/products/froh_beige.png",
     colorImages: {
-      "#D2B48C": "/src/assets/products/froh_beige.png",
-      "#000000": "/src/assets/products/froh_black.png",
-      "#FFFDD0": "/src/assets/products/froh_cream.png"
+      "#D2B48C": "/products/froh_beige.png",
+      "#000000": "/products/froh_black.png",
+      "#FFFDD0": "/products/froh_cream.png"
     },
     description: "Elegant block heel sandals for women, featuring a comfortable platform and stylish straps. Perfect for parties and formal events."
   },
@@ -354,9 +354,9 @@ export const products = [
     rating: 4.8,
     reviews: 45,
     isNew: true,
-    image: "/src/assets/products/miyoko_heels_maroon.png",
+    image: "/products/miyoko_heels_maroon.png",
     colorImages: {
-      "#800000": "/src/assets/products/miyoko_heels_maroon.png"
+      "#800000": "/products/miyoko_heels_maroon.png"
     },
     description: "Elegant and stylish MIYOKO women heels in maroon color. Perfect for any occasion."
   },
@@ -372,10 +372,10 @@ export const products = [
     rating: 4.8,
     reviews: 56,
     isNew: true,
-    image: "/src/assets/products/boot_black.png",
+    image: "/products/boot_black.png",
     colorImages: {
-      "#000000": "/src/assets/products/boot_black.png",
-      "#8B4513": "/src/assets/products/boot_chocolate.png"
+      "#000000": "/products/boot_black.png",
+      "#8B4513": "/products/boot_chocolate.png"
     },
     description: "Stylish woman's boot available in classic black and rich chocolate brown. Perfect for stepping out in style."
   },
@@ -391,11 +391,11 @@ export const products = [
     rating: 4.7,
     reviews: 42,
     isNew: true,
-    image: "/src/assets/products/man_formal_boot_black.png",
+    image: "/products/man_formal_boot_black.png",
     colorImages: {
-      "#000000": "/src/assets/products/man_formal_boot_black.png",
-      "#8B4513": "/src/assets/products/man_formal_boot_brown.png",
-      "#FFA500": "/src/assets/products/man_formal_boot_orange.png"
+      "#000000": "/products/man_formal_boot_black.png",
+      "#8B4513": "/products/man_formal_boot_brown.png",
+      "#FFA500": "/products/man_formal_boot_orange.png"
     },
     description: "Classic and elegant man formal boot available in Black, Brown, and Orange."
   },
@@ -411,10 +411,10 @@ export const products = [
     rating: 4.8,
     reviews: 64,
     isNew: true,
-    image: "/src/assets/products/travel_bag_black.png",
+    image: "/products/travel_bag_black.png",
     colorImages: {
-      "#000000": "/src/assets/products/travel_bag_black.png",
-      "#8B4513": "/src/assets/products/travel_bag_chocolate.png"
+      "#000000": "/products/travel_bag_black.png",
+      "#8B4513": "/products/travel_bag_chocolate.png"
     },
     description: "Stylish and spacious travel bag, perfect for your next trip. Available in classic Black and rich Chocolate colors."
   },
@@ -430,10 +430,10 @@ export const products = [
     rating: 4.7,
     reviews: 84,
     isNew: true,
-    image: "/src/assets/products/woman_office_bag_blue.png",
+    image: "/products/woman_office_bag_blue.png",
     colorImages: {
-      "#1E3A8A": "/src/assets/products/woman_office_bag_blue.png",
-      "#FF69B4": "/src/assets/products/woman_office_bag_pink.png"
+      "#1E3A8A": "/products/woman_office_bag_blue.png",
+      "#FF69B4": "/products/woman_office_bag_pink.png"
     },
     description: "Elegant and practical woman office bag featuring beautiful floral embroidery. Available in Blue and Pink."
   },
@@ -449,10 +449,10 @@ export const products = [
     rating: 4.6,
     reviews: 58,
     isNew: true,
-    image: "/src/assets/products/woman_office_bag_v2_maroon.png",
+    image: "/products/woman_office_bag_v2_maroon.png",
     colorImages: {
-      "#800000": "/src/assets/products/woman_office_bag_v2_maroon.png",
-      "#FFA500": "/src/assets/products/woman_office_bag_v2_orange.png"
+      "#800000": "/products/woman_office_bag_v2_maroon.png",
+      "#FFA500": "/products/woman_office_bag_v2_orange.png"
     },
     description: "Stylish and compact women's crossbody office bag. Available in classic Maroon and vibrant Orange."
   },
@@ -468,11 +468,11 @@ export const products = [
     rating: 4.8,
     reviews: 72,
     isNew: true,
-    image: "/src/assets/products/woman_office_heel_white.png",
+    image: "/products/woman_office_heel_white.png",
     colorImages: {
-      "#FFFFFF": "/src/assets/products/woman_office_heel_white.png",
-      "#000000": "/src/assets/products/woman_office_heel_black.png",
-      "#8B4513": "/src/assets/products/woman_office_heel_chocolate.png"
+      "#FFFFFF": "/products/woman_office_heel_white.png",
+      "#000000": "/products/woman_office_heel_black.png",
+      "#8B4513": "/products/woman_office_heel_chocolate.png"
     },
     description: "Elegant and comfortable block heel sandals for office wear. Available in White, Black, and Chocolate."
   }
